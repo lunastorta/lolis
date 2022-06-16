@@ -44,7 +44,7 @@ transition: all 0.1s;
 }
 
 .hero {
-  background-image: url(/media/header-background.svg);
+  background-image: url(./media/header-background.svg);
   background-repeat: no-repeat;
   background-size: cover;
   width:  100%;
