@@ -45,9 +45,11 @@ transition: all 0.1s;
 
 .hero {
   background-image: url(./media/header-background.svg);
+  height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
   width:  100%;
+  display: flex;
 }
 
 .hero h2 {
@@ -63,6 +65,9 @@ transition: all 0.1s;
   padding-bottom: 255px;
   margin-top: 0px;
   margin-bottom: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 h3 {
